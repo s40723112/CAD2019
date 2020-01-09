@@ -27,22 +27,23 @@
 <v t="leo.20200109213311.1"><vh>solvespace</vh>
 <v t="leo.20200109213311.2"><vh>solvespace編譯</vh></v>
 </v>
-<v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
-<v t="leo.20180902120523.14"><vh>solvespace about加學號</vh>
-<v t="leo.20180902120523.15"><vh>solvespace about加學號</vh></v>
+<v t="leo.20200109225715.1"><vh>solvespace about加學號</vh>
+<v t="leo.20200109225715.2"><vh>solvespace about加學號</vh></v>
 </v>
-<v t="leo.20200109214951.1"><vh>solvespace 繪圖練習</vh>
-<v t="leo.20200109214951.2"><vh>solvespace 繪圖練習</vh></v>
+<v t="leo.20200109225722.1"><vh>solvespace 繪圖練習</vh>
+<v t="leo.20200109225722.2"><vh>solvespace 繪圖練習</vh></v>
 </v>
-<v t="leo.20180902120523.18"><vh>V-rep</vh>
-<v t="leo.20180902120523.19"><vh>iframe 導入影片</vh></v>
+<v t="leo.20200109225728.1"><vh>V-rep</vh>
+<v t="leo.20200109225728.2"><vh>iframe 導入影片</vh></v>
 </v>
-<v t="leo.20200109215049.1"><vh>V-rep solvespace導入V-rep</vh>
-<v t="leo.20200109215049.2"><vh>iframe 導入影片</vh></v>
+<v t="leo.20200109225735.1"><vh>V-rep solvespace導入V-rep</vh>
+<v t="leo.20200109225735.2"><vh>iframe 導入影片</vh></v>
 </v>
-<v t="leo.20200109215311.1"><vh>V-rep 車子前進</vh>
-<v t="leo.20200109215311.2"><vh>iframe 導入影片</vh></v>
+<v t="leo.20200109225741.1"><vh>V-rep 車子前進</vh>
+<v t="leo.20200109225741.2"><vh>iframe 導入影片</vh></v>
 </v>
+<v t="leo.20200109225909.1"><vh>W17 翻譯</vh>
+<v t="leo.20200109225909.2"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
 </v>
@@ -72,40 +73,6 @@
 * V-rep設定參數使其移動
 
 </t>
-<t tx="leo.20180902120523.13">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20180902120523.14">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20180902120523.15"># solvesapce
-
-about 加入學號
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/CotCUNAlOfM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-</t>
-<t tx="leo.20180902120523.18">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20180902120523.19">## V-rep
-雙輪車近端控制
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/IvudFTzezIY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20180902120523.2"></t>
 <t tx="leo.20180902120523.3">@language xml
 @tabwidth -4
@@ -304,7 +271,7 @@ Created by [s40723112](https://github.com/s40723112/cad2019)
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/-R7h05Q_22I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
-<t tx="leo.20200109214951.1">&lt;section data-markdown&gt;
+<t tx="leo.20200109225715.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -315,12 +282,29 @@ Created by [s40723112](https://github.com/s40723112/cad2019)
 
 						
 </t>
-<t tx="leo.20200109214951.2"># solvesapce
+<t tx="leo.20200109225715.2"># solvesapce
+
+about 加入學號
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/CotCUNAlOfM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200109225722.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20200109225722.2"># solvesapce
 
 Solvespace 繪圖練習 
 &lt;iframe width="350" height="200" src="https://www.youtube.com/embed/V9MsuFDCwK8?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;
 &lt;/iframe&gt; &lt;iframe width="350" height="200" src="https://www.youtube.com/embed/y5uVrumE9ug" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
-<t tx="leo.20200109215049.1">&lt;section data-markdown&gt;
+<t tx="leo.20200109225728.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -329,10 +313,22 @@ Solvespace 繪圖練習
 
 						
 </t>
-<t tx="leo.20200109215049.2">## V-rep
+<t tx="leo.20200109225728.2">## V-rep
+雙輪車近端控制
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/IvudFTzezIY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200109225735.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200109225735.2">## V-rep
 solvespace導入V-rep(W16)
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/OBw_NQzfFXg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
-<t tx="leo.20200109215311.1">&lt;section data-markdown&gt;
+<t tx="leo.20200109225741.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -341,9 +337,27 @@ solvespace導入V-rep(W16)
 
 						
 </t>
-<t tx="leo.20200109215311.2">## V-rep
+<t tx="leo.20200109225741.2">## V-rep
 V-rep車子移動(W17)
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/DU0ptKz9mXQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200109225909.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200109225909.2">## W17 任務二
+
+Webots  W17
+[原文書連結](https://cyberbotics.com/doc/guide/tutorial-2-modification-of-the-environment )
+
+步驟4 5翻譯
+[連結](https://s40723112.github.io/cad2019/content/%E4%BB%BB%E5%8B%99%E4%B8%80.html)
 </t>
 </tnodes>
 </leo_file>
